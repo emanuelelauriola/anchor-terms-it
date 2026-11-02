@@ -1,6 +1,14 @@
-# Termini di Servizio - Anchor
+# Supporto e Termini di Servizio - Anchor
 
-Ultimo aggiornamento: 13 Ottobre 2026
+> **Hai bisogno di assistenza?**  
+> Per qualsiasi domanda, supporto tecnico o segnalazione di problemi relativi all'applicazione **Anchor**, puoi contattare direttamente lo sviluppatore inviando un'email a:  
+> 📧 lauriola.publicity@gmail.com
+
+---
+
+## Termini di Servizio - Anchor
+
+*Ultimo aggiornamento: 13 Ottobre 2026*
 
 Benvenuto in Anchor. Utilizzando la nostra applicazione, accetti i seguenti termini e condizioni d'uso.
 
